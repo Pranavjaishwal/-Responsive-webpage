@@ -24,4 +24,10 @@ To view and run this project locally, you'll need:
    ```bash
    git clone https://github.com/Pranavjaishwal/-Responsive-webpage.git
 
-### Customization
+## Customization
+### Modify Styles
+You can customize the appearance by editing the reset.css or styled.css files.
+
+### Add Content
+
+Edit the index.html file to add or modify content in the main container or sidebar.
