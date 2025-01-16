@@ -22,4 +22,4 @@ To view and run this project locally, you'll need:
 
 1. Clone this repository or download it as a ZIP file:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Pranavjaishwal/-Responsive-webpage.git
